@@ -17,7 +17,7 @@
       "url": "http://我不是.摸鱼儿.xyz"
     },
     {
-      "url": "https://毒盒.com/tv",
+      "url": "https://tv.youdu.fan:666/duhe/",
       "name": "毒盒影视"
     },
     {
