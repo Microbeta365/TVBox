@@ -31,29 +31,29 @@
       "changeable": 0
     },
     {
-	  "key": "腾讯视频",
-	  "name": "🌞腾讯┃解析┃4K",
-	  "type": 3,
-	  "api": "./api/drpy2.min.js",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "order_num": 0,
-	  "changeable": 0,
-	  "ext": "./lib/tm.js"
-	},
-	{
-	  "key": "芒果视频",
-	  "name": "🌞芒果┃解析┃4K",
-	  "type": 3,
-	  "api": "./api/drpy2.min.js",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "order_num": 0,
-	  "changeable": 0,
-	  "ext": "./lib/guoguo.js"
-	},
+      "key": "腾讯视频",
+      "name": "🌞腾讯┃解析┃4K",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./lib/tm.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🌞芒果┃解析┃4K",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./lib/guoguo.js"
+    },
     {
       "key": "alllive",
       "name": "📽️星河共影┃2K直播",
