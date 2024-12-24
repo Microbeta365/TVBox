@@ -5,8 +5,8 @@
         {
             "name": "IPV6",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         }
   ],
   "sites": [
@@ -29,30 +29,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "腾讯视频",
-      "name": "🌞腾讯┃解析┃4K",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./lib/tm.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "🌞芒果┃解析┃4K",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./lib/guoguo.js"
     },
     {
       "key": "alllive",
@@ -161,6 +137,15 @@
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+      "jar": "./lib/天天.jar"
+    },
+    {
+      "key": "熊猫",
+      "name": "🐼熊猫┃多线┃蓝光",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
       "jar": "./lib/天天.jar"
     },
     {
@@ -499,7 +484,7 @@
     },
     {
       "key": "腾讯",
-      "name": "🎄腾讯┃影视┃解析",
+      "name": "🌞腾讯┃影视┃解析",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./lib/腾讯视频.js"
@@ -513,7 +498,7 @@
     },
     {
       "key": "芒果",
-      "name": "🎄芒果┃影视┃解析",
+      "name": "🌞芒果┃影视┃解析",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./lib/芒果视频.js"
@@ -527,7 +512,7 @@
     },
     {
       "key": "爱奇艺",
-      "name": "🎄爱爱┃影视┃解析",
+      "name": "🌞奇艺┃影视┃解析",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
@@ -639,8 +624,8 @@
     },
     {
       "name": "臻享",
-      "type": "1",
-      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -719,6 +704,35 @@
           "bilibili",
           "1905",
           "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "巧技Pro",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
