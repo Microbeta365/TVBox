@@ -50,7 +50,7 @@
     },
     {
       "name": "蜗牛",
-      "url": "https://tv.xn--11x555b.top/svip"
+      "url": "https://tv.蜗牛.top/svip"
     },
     {
       "name": "南风",
