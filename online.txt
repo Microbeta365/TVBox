@@ -45,14 +45,6 @@
       "url": "http://meowtv.top/tv"
     },
     {
-      "name": "秦始皇",
-      "url": "https://秦始皇.xyz"
-    },
-    {
-      "name": "蜗牛",
-      "url": "https://tv.蜗牛.top/svip"
-    },
-    {
       "name": "南风",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
